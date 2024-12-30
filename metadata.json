@@ -1,0 +1,10 @@
+{
+  "name": "Lotus",
+  "symbol": "LOT",
+  "description": "Lotus tokekn is use to buy items.",
+  "image": "https://cdn.vectorstock.com/i/1000v/66/89/black-lotus-icon-on-grey-background-vector-9416689.jpg",
+  "attributes": [
+    { "trait_type": "Background", "value": "white" },
+    { "trait_type": "Color", "value": "Gray" }
+  ]
+}
